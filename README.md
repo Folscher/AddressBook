@@ -29,6 +29,7 @@ The front end projects consists of Web and Wpf. I just added the WPF project in 
 
  # 5. Test
   - The is where I will write my unit tests. Mainly testing my services as it contains the application business logic.
+  - This project is empty. Its just for illustration purposes
   
  # 6. API
   - I like to keep my API as minimalistic as possible. 
