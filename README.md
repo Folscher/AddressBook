@@ -4,6 +4,8 @@ Hey Brett,
 
 The architecture I went with is a bit overkill for the size of the application. But its just something small to show you how I would tackle a new project.
 
+And excuse the spelling mistakes if you find any... I didn't have time to proof read everything before the commit
+
 # A very quick summary
 
 The back end projects consists of Data, Services, Common, Test, Model. Each are seperated to decouple the solution as much as possible. You'll also notice I went with a repository pattern.
